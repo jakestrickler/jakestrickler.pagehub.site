@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [External Link](https://www.apple.com)
 
-[Link with Spaces](@jakestrickler/Blog Posts/SwiftUI)
+[Link with Spaces](@jakestrickler/Blog Posts/SwiftUI.md)
 
 1. Eggs
 2. Milk
